@@ -28,3 +28,4 @@ bandit==1.7.4
 mypy==0.950
 types-requests==2.27.25
 sqlalchemy-stubs==0.4
+greenlet==2.0.0a1
